@@ -1,0 +1,32 @@
+{
+    "name": "dark-my-code",
+    "displayName": "dark-my-code",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.66.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Dark My Code",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Dark My Code-color-theme.json"
+            }
+        ]
+    },
+    "icon": "./icons/Cool-icon.png",
+    "author": {
+        "name": "Antonio Monterroso",
+        "email": "dmonterroso098@outlook.com",
+        "url": "https://www.linkedin.com/in/antoniomonterroso/"
+    },
+    "repository": {
+        "url": "https://github.com/DaMVgt/DarkMyCode",
+        "type": "git"
+    },
+    "publisher": "dark-my-code"
+}
